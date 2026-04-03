@@ -1,6 +1,6 @@
 # CATFE - Hệ thống Quản lý Web Cat Cafe 
 
-##  Tổng quan & Bài toán Doanh nghiệp
+##  Tổng quan 
 CATFE là một giải pháp số toàn diện được thiết kế để giải quyết bài toán vận hành thực tế cho mô hình cà phê thú cưng kết hợp cứu hộ. Hệ thống tập trung tối ưu hóa quy trình tương tác khách hàng trực tuyến, xử lý đặt vé tự động và quản lý thông tin dữ liệu tập trung.
 
 ###  Vai trò đảm nhiệm: Business Analyst (BA)
