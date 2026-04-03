@@ -27,7 +27,7 @@ Với góc nhìn của một BA nhằm tối ưu hóa hệ thống để phục 
 
 ---
 
-# Đồ án Chuyên ngành: Hệ thống Quản lý Vận chuyển
+# Hệ thống Quản lý Vận chuyển
 
 ## Tổng quan đề tài
 Đề tài nghiên cứu ứng dụng lý thuyết Hệ thống thông tin quản lý (MIS) nhằm xây dựng quy trình số hóa cho hoạt động vận tải hàng hóa đường bộ. Dự án giải quyết các bài toán then chốt: quản lý phương tiện vận chuyển, tài xế, tối ưu hóa tải trọng hàng hóa và hỗ trợ quy trình phân công chuyến hàng linh hoạt cho các doanh nghiệp vừa và nhỏ.
